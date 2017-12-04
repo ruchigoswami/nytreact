@@ -1,0 +1,38 @@
+.jumbotron-colors {
+  background-color: #c4c3d0;
+  color: white;
+}
+
+.panel-heading-custom {
+  background-color: #c4c3d0 !important;
+  border-color: #c4c3d0;
+}
+.panel{
+	border-color: #c4c3d0;
+}
+.panel-primary>.panel-heading{
+	border-color: #c4c3d0;
+}
+.fa-padding-right {
+  padding-right: 10px;
+}
+
+.btn-margin-right {
+  margin-right: 10px;
+}
+
+.panel-inner-button {
+  float: right;
+  margin-top: -35px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #c4c3d0;
+    border-color: #c4c3d0;
+}
+.btn{
+	color: #fff;
+    background-color: #c4c3d0;
+    border-color: #c4c3d0;
+
+}
